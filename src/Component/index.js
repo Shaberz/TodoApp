@@ -4,3 +4,4 @@ export {default as TaskList} from './TaskList/TaskList';
 export {default as FilterFooter} from './FilteFooter/FilterFooter';
 export {default as Footer} from './Footer/Footer';
 export {default as TodoApp} from './TodoApp/TodoApp';
+export {default as TaskItem} from './TaskItem/TaskItem';

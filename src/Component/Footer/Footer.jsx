@@ -1,8 +1,8 @@
 import React from "react";
-
+import './Footer.css'
 const Footer = () =>(
     <div className="Footer">
-        <footer>Developed by Reza Tofighi</footer>
+        <footer>Developed by @Shaberz</footer>
   </div>
 );
 
